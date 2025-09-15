@@ -1,6 +1,6 @@
 # A simple script for extracting data from webs
 
-Simple program for extracting data from webs made with Python 3.12
+Simple program for extracting data from webs made with Python 3.12.
 
 ## Autor
 
