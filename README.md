@@ -63,4 +63,10 @@ The behavior of the application can be modified using a set of arguments:
   * If this argument is not provided, the program will read URLs from standard input (stdin).
 - `-o`, `--output <path>`  
   Specifies the path to a file where the results should be saved.
+
   * If this argument is not provided, the results will be printed to standard output (stdout).
+
+You can immediately launch the application with this command.
+
+  ```sh
+  python3 run.py -o output_example < input_example
